@@ -70,5 +70,4 @@
   <project path="toolchain/pgo-profiles" name="crdroidandroid/android_toolchain_pgo-profiles" groups="pdk" remote="crdroid" />
 
   <project path="vendor/certification" name="crdroidandroid/android_vendor_certification" remote="crdroid" />
-  <project path="vendor/crDroidOTA" name="crdroidandroid/android_vendor_crDroidOTA" remote="crdroid" />
 </manifest>

@@ -66,6 +66,7 @@
   <!--vendor repos-->
   <project path="vendor/addons" name="android_vendor_addons" remote="matrixx"  />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="matrixx"  />
+  <project path="vendor/MatrixxOTA" name="android_vendor_MatrixxOTA" remote="matrixx-devices"  />
   <project path="vendor/gms" name="vendor-gms-matrixx" remote="gitlab" />
   <project path="vendor/pixel-framework" name="android_vendor_pixel-framework" remote="matrixx" />
   <project path="vendor/google/overlays/ThemeIcons" name="vendor_google_overlays_ThemeIcons" remote="matrixx" />
