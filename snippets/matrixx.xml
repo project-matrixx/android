@@ -43,7 +43,7 @@
 
   <!-- frameworks repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="matrixx" />
-  <project path="frameworks/base" name="frameworks_base" remote="matrixx" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="matrixx" />
   <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="matrixx" />
 
   <project path="lineage-sdk" name="android_lineage-sdk" remote="matrixx"  />
