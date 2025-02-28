@@ -32,6 +32,9 @@ WITH_GMS := true
 # To Build Pixel launcher
 TARGET_INCLUDE_NEXUS := true
 
+# To Build Cinematic Wallpaper (Works with Pixel as well as Matrixx launcher)
+TARGET_SUPPORTS_WALLEFFECT := true
+
 #Some more GMS Flag
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_INCLUDE_STOCK_ARCORE := true
